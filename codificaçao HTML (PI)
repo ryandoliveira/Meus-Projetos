@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pura Acqua Brasil</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bem Vindo ao Pura Acqua</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Página Inicial</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="content">
+            <h2>O que é o Pura Acqua?</h2>
+            <p>Pura Acqua é uma organização focada na proteção e preservação da vida marinha com o intuito de conscientizar a população e mobilizá-los a contribuir para a causa.</p>
+
+            <h3>Impacto do Descarte de Plásticos nos Oceanos</h3>
+            <p>O descarte ilegal de plásticos nos oceanos tem um impacto devastador na vida marinha. Muitos animais marinhos, como tartarugas, aves marinhas e mamíferos marinhos, ficam presos em plásticos ou os confundem com alimentos. Isso pode levar à asfixia, ingestão de plástico e morte.</p>
+
+            <p>Além disso, os plásticos nos oceanos se degradam em microplásticos ao longo do tempo, contaminando os habitats marinhos e entrando na cadeia alimentar. Isso pode ter consequências graves para os ecossistemas marinhos e para a saúde humana.</p>
+
+            <h3>Organizações de Proteção à Vida Marinha</h3>
+            <p>Aqui estão algumas organizações que trabalham na proteção e preservação da vida marinha:</p>
+            <ul>
+                <li><a href="https://www.greenpeace.org/brasil/">Greenpeace Brasil</a></li>
+                <li><a href="https://www.wwf.org.br/">WWF Brasil</a></li>
+                <li><a href="https://www.oceanconservancy.org/">Ocean Conservancy</a></li>
+            </ul>
+            <p>Visite os sites dessas organizações para aprender mais sobre seus esforços e descobrir como você pode se envolver e ajudar.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Pura Acqua. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
